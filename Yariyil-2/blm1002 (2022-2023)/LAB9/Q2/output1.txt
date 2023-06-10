@@ -1,0 +1,2 @@
+[38, 42]
+Player B wins

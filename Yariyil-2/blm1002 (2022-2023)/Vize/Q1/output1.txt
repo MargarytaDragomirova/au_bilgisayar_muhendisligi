@@ -1,0 +1,12 @@
+10 elemanlik dizin icin tamsayi degerler giriniz.
+3 9 1 6 4 7 2 9 5 1 
+Silinecek degeri giriniz, bitirmek icin -1 
+1 
+3 9 6 4 7 2 9 5 1 
+Silinecek degeri giriniz, bitirmek icin -1 
+4 
+3 9 6 7 2 9 5 1 
+Silinecek degeri giriniz, bitirmek icin -1 
+-1 
+Dizinin elamanlari : 
+3 9 6 7 2 9 5 1 

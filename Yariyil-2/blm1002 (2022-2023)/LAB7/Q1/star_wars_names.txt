@@ -1,0 +1,14 @@
+Not: Kopyalayıp yapıştırdığınızda parantez işaretine dikkat edin.  
+
+char star_wars_names[12][60]={"Episode IV: A New Hope (1977)", 
+    "Episode V: The Empire Strikes Back (1980)",
+    "Episode VI: Return of the Jedi (1983)",
+    "Episode I: The Phantom Menace (1999)",
+    "Episode II: Attack of the Clones (2002)",
+    "Episode III: Revenge of the Sith (2005)",
+    "Star Wars: The Clone Wars (2008)",
+    "Episode VII: The Force Awakens (2015)",
+    "Rogue One: A Star Wars Story (2016)",
+    "Episode VIII: The Last Jedi (2017)",
+    "Solo: A Star Wars Story (2018)",
+    "Episode IX: The Rise of Skywalker (2019)"};
